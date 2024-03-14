@@ -18,7 +18,7 @@ int main() {
 
   printf("preco inicial = %f\n", preco_inicial);
   printf("Valor ICMS = %f\n", preco_icms);
-  printf("Valor COFINS + %f\n", valor_cofins);
+  printf("Valor COFINS = %f\n", valor_cofins);
   printf("Valor PIS/PASEP = %f\n", valor_pis_pasep);
   printf("Valor preco_final = %f\n", preco_final);
 
