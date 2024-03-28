@@ -9,7 +9,7 @@ int main() {
 
   int area = base * altura / 2;
 
-  printf("A area do triango e %i\n", area);
+  printf("A area do triangulo e %i\n", area);
     
 return 0;
 }
