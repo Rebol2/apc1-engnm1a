@@ -7,9 +7,14 @@ int main() {
   int base = 2;
   int altura = 3;
 
+  printf("entre com a medida da base:");
+  int deu_certo = scanf("%i", &base);
+  printf("entre com a medida da altura:");
+  int deu_c = scanf("%i", &altura);
+  
   int area = base * altura / 2;
 
-  printf("A area do triangulo e %i\n", area);
+  printf("A area do triangulo é: %i\n", area);
     
 return 0;
 }
