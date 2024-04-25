@@ -4,8 +4,8 @@
 #include <stdio.h>
 
 int main() { 
-  int base = 2;
-  int altura = 3;
+  int base = 0;
+  int altura = 0;
 
   printf("entre com a medida da base:");
   int deu_certo = scanf("%i", &base);

@@ -7,7 +7,7 @@ int main() {
   printf("Entre com o primeiro número: ");
   int deu_certo = scanf("%i", &numero1);
   printf("Entre com o segundo número: ");
-  deu_certo = scanf("%i", &numero2);
+  int deu_cert = scanf("%i", &numero2);
 
   int sao_iguais = numero1 == numero2;
   printf("Os números são iguais? %i\n", sao_iguais);
